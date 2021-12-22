@@ -2,10 +2,10 @@
 title: "Lucas Johnson"
 image: "yosemite.jpeg"
 links:
-  - label: LinkedIn
-    url: "https://www.linkedin.com/in/lucas-johnson-2ab76293/"
   - label: Github
     url: "https://github.com/lucas-johnson"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/lucas-johnson-2ab76293/"
 output:
   postcards::solana
 ---
@@ -27,14 +27,14 @@ R, and python.
 
 **SUNY College of Environmental Science & Forestry** | Syracuse, NY
 
-Ph.D. in Environmental Science | Aug 2019 - Present
+Ph.D. in Environmental Science | August 2019 - Present
 
 **Tufts University** | Medford, MA 
 
-B.S. in Computer Science | Aug 2013 - May 2017
+B.S. in Computer Science | August 2013 - May 2017
 
 ## Experience
 
-**Research Assistant** | SUNY ESF, [CAFRI](http://cafri-ny.org/) | Aug 2019 - Present
+**Research Assistant** | SUNY ESF, [CAFRI](http://cafri-ny.org/) | August 2019 - Present
 
-**Data Engineer** | Lightkeeper LLC | Aug 2017 - Jul 2019
+**Data Engineer** | Lightkeeper, LLC | August 2017 - July 2019
