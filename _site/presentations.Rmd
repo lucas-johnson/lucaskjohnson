@@ -1,0 +1,37 @@
+---
+title: "Presentations"
+output: 
+    html_document:
+        css: "static.css"
+header-includes:
+    - \usepackage{setspace}
+    - \singlespacing
+---
+
+---
+
+## Lead Presenter/Author
+
+### 2021
+
+__Broad‑scale forest biomass mapping: generating contiguous high‑resolution predictions using a spatio‑temporal patchwork of LiDAR coverages across a mixed‑use landscape.__ \
+With [Michael J. Mahoney](https://www.mm218.dev/), [Colin M. Beier](https://www.esf.edu/faculty/beier/), and [Eddie Bevilacqua](https://www.esf.edu/faculty/bevilacqua/)\
+Regular talk, American Geophysical Union Fall Meeting, New Orleans LA, December 15 2021.\
+Slides available at https://lucas-johnson.github.io/agu-2021/slides.html
+
+<br>
+
+**Greening Up Before Growing Up: Challenges in Modeling Forest Biomass Recovery Post‑Harvest Using Satellite Imagery.**\
+With [Michael J. Mahoney](https://www.mm218.dev/) and [Colin M. Beier](https://www.esf.edu/faculty/beier/)\
+Regular talk, Society of American Foresters National Convention, Virtual, November 2021.\
+Slides available at https://lucas-johnson.github.io/saf-2021/slides.html
+
+---
+
+## Collaborating Presenter/Author
+
+### 2021
+
+**Filtering ground noise from LiDAR returns produces inferior models of forest aboveground biomass.**\
+With [Michael J. Mahoney](https://www.mm218.dev/) (lead author), [Colin M. Beier](https://www.esf.edu/faculty/beier/), and [Eddie Bevilacqua](https://www.esf.edu/faculty/bevilacqua/)\
+Poster presentation, American Geophysical Union Fall Meeting, New Orleans LA, December 15 2021.\

@@ -1,0 +1,15 @@
+name: "."
+title: "Lucas Johnson"
+description: |
+  Lucas Johnson
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Papers"
+      href: papers.html
+    - text: "Presentations"
+      href: presentations.html
+output: distill::distill_article
+theme: postcards.css

@@ -1,0 +1,13 @@
+---
+title: "Papers"
+output: 
+    html_document:
+        css: "static.css"
+header-includes:
+    - \usepackage{setspace}
+    - \singlespacing
+---
+
+---
+
+#### Coming soon (hopefully `r emo::ji("grimace")`)...
