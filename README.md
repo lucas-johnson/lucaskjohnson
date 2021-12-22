@@ -1,2 +1,3 @@
 # lucaskjohnson
-Personal website with Rmarkdown, distill, and postcards.
+
+[Personal website](https://lucaskjohnson.com) with Rmarkdown, distill, and postcards.
