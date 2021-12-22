@@ -1,0 +1,40 @@
+---
+title: "Lucas Johnson"
+image: "yosemite.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/lucas-johnson-2ab76293/"
+  - label: Github
+    url: "https://github.com/lucas-johnson"
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+I'm a Ph.D. student at SUNY ESF studying carbon mapping and monitoring under
+Dr. Colin Beier. 
+My work focuses on methods for leveraging open data to produce maps of forest
+structure at local scales relevant to management. 
+I have a strong background in programming and computer science, and have been 
+learning to couple these skills with statistical modeling and machine learning
+techniques to produce landscape-level insights. 
+I enjoy the challenges that come with wrangling all kinds of spatial data using
+R, and python. 
+
+
+## Education
+
+**SUNY College of Environmental Science & Forestry** | Syracuse, NY
+
+Ph.D. in Environmental Science | Aug 2019 - Present
+
+**Tufts University** | Medford, MA 
+
+B.S. in Computer Science | Aug 2013 - May 2017
+
+## Experience
+
+**Research Assistant** | SUNY ESF, [CAFRI](http://cafri-ny.org/) | Aug 2019 - Present
+
+**Data Engineer** | Lightkeeper LLC | Aug 2017 - Jul 2019
