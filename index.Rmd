@@ -2,7 +2,7 @@
 title: "Lucas Johnson"
 image: "yosemite.jpeg"
 links:
-  - label: Github
+  - label: GitHub
     url: "https://github.com/lucas-johnson"
   - label: LinkedIn
     url: "https://www.linkedin.com/in/lucas-johnson-2ab76293/"
