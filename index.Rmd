@@ -15,7 +15,7 @@ site: distill::distill_website
  
 ## Bio
 
-I'm a Ph.D. student at SUNY ESF studying forest carbon mapping and monitoring 
+I'm a Ph.D. candidate at SUNY ESF studying forest carbon mapping and monitoring 
 under Dr. Colin Beier. 
 My work focuses on methods for leveraging open data to produce maps of forest
 structure at local scales relevant to management. 
