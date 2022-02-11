@@ -10,4 +10,10 @@ header-includes:
 
 ---
 
-#### Coming soon (hopefully `r emo::ji("grimace")`)...
+## Collaborating Author
+
+### 2022
+
+Madeleine L Desrochers, Wayne Tripp, Stephen Logan, Eddie Bevilacqua, **Lucas Johnson**, Colin M Beier, Ground-Truthing Forest Change Detection Algorithms in Working Forests of the US Northeast, Journal of Forestry, 2022;, fvab075, https://doi.org/10.1093/jofore/fvab075
+
+<br>
