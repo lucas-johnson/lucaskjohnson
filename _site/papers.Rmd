@@ -10,10 +10,18 @@ header-includes:
 
 ---
 
-## Collaborating Author
+### In Review
+
+**Johnson, L. K.**, Mahoney, M. J., Bevilacqua, E., Stehman, S. V., Domke, G., & Beier, C. M. (2022). In Review. High-resolution landscape-scale biomass mapping using a spatiotemporal patchwork of LiDAR coverages. In review at _Environmental Research Letters_. https://doi.org/10.48550/arXiv.2205.08530. 
+
+Mahoney, MJ, **Johnson, L. K.**, and Beier, C. M. In Review. Classification and mapping of low-statured 'shrubland' cover types in post-agricultural landscapes of the US Northeast. In review at _ISPRS Journal of Photogrammetry and Remote Sensing_. https://doi.org/10.48550/arXiv.2205.05047
+
+Mahoney, MJ, **Johnson, L. K.**, Bevilacqua, E., and Beier, C. M. In Review. Ground noise filtering produces inferior models of forest aboveground biomass. In review at _GIScience and Remote Sensing_. https://doi.org/10.31223/X5HG99
+
+<br>
 
 ### 2022
 
-Madeleine L Desrochers, Wayne Tripp, Stephen Logan, Eddie Bevilacqua, **Lucas Johnson**, Colin M Beier, Ground-Truthing Forest Change Detection Algorithms in Working Forests of the US Northeast, Journal of Forestry, 2022;, fvab075, https://doi.org/10.1093/jofore/fvab075
+Desrochers, M. L., Tripp, W., Logan, S., Bevilacqua, E., **Johnson, L.**, & Beier, C. M. (2022). Ground-Truthing Forest Change Detection Algorithms in Working Forests of the US Northeast. _Journal of Forestry_. https://doi.org/10.1093/jofore/fvab075
 
 <br>
