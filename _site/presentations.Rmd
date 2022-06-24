@@ -38,7 +38,8 @@ Slides available at https://lucas-johnson.github.io/saf-2021/slides.html
 ### 2022
 **Filtering ground noise from LiDAR returns produces inferior models of forest aboveground biomass.**\
 With [Michael J. Mahoney](https://www.mm218.dev/) (lead author), and [Colin M. Beier](https://www.esf.edu/faculty/beier/) \
-Regular talk, North American Forest Ecology Workshop (Virtual), June 20 2022.
+Regular talk, North American Forest Ecology Workshop (Virtual), June 20 2022.\
+Slides available at https://mikemahoney218.github.io/2022-06-20_NAFEW_ground_filtering/slides.html
 
 ### 2021
 
