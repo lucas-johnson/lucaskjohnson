@@ -10,13 +10,9 @@ header-includes:
 
 ---
 
-### In Review
-
-Mahoney, MJ, **Johnson, L. K.**, and Beier, C. M. In Review. Classification and mapping of low-statured 'shrubland' cover types in post-agricultural landscapes of the US Northeast. In review at _International Journal of Remote Sensing_. https://doi.org/10.48550/arXiv.2205.05047
-
-<br>
-
 ### 2022
+
+Mahoney, M. J., **Johnson, L. K.**, Guinan, A. Z., and Beier, C. M. (2022). Classification and mapping of low-statured shrubland cover types in post-agricultural landscapes of the US Northeast. _International Journal of Remote Sensing_ 43:19-24 7117-7138. https://doi.org/10.1080/01431161.2022.2155086.
 
 **Johnson, L. K.**, Mahoney, M. J., Bevilacqua, E., Stehman, S. V., Domke, G. M., & Beier, C. M. (2022). Fine-resolution landscape-scale biomass mapping using a spatiotemporal patchwork of LiDAR coverages. _International Journal of Applied Earth Observation and Geoinformation_ 114 103059. https://doi.org/10.1016/j.jag.2022.103059. 
 
