@@ -12,7 +12,7 @@ header-includes:
 
 ### 2023
 
-Mahoney, MJ, **Johnson, L. K.**, Silge, J., Frick, H., Kuhn, M., and Beier, C. M. Assessing the performance of spatial cross-validation approaches for models of spatially structured data. In review at _Environmental Modeling & Software_. 
+Mahoney, M.J., **Johnson, L. K.**, Silge, J., Frick, H., Kuhn, M., and Beier, C. M. Assessing the performance of spatial cross-validation approaches for models of spatially structured data. In review at _Environmental Modeling & Software_. 
 https://doi.org/10.48550/arXiv.2303.07334
 
 ### 2022
@@ -22,7 +22,7 @@ Mahoney, M. J., **Johnson, L. K.**, Guinan, A. Z., and Beier, C. M. (2022). Clas
 **Johnson, L. K.**, Mahoney, M. J., Bevilacqua, E., Stehman, S. V., Domke, G. M., & Beier, C. M. (2022). Fine-resolution landscape-scale biomass mapping using a spatiotemporal patchwork of LiDAR coverages. _International Journal of Applied Earth Observation and Geoinformation_ 114 103059. https://doi.org/10.1016/j.jag.2022.103059. 
 
 
-Mahoney, MJ, **Johnson, L. K.**, Bevilacqua, E., and Beier, C. M. (2022). Ground noise filtering produces inferior models of forest aboveground biomass. _GIScience and Remote Sensing_ 59:1 1266-1280. https://doi.org/10.1080/15481603.2022.2103069
+Mahoney, M. J., **Johnson, L. K.**, Bevilacqua, E., and Beier, C. M. (2022). Ground noise filtering produces inferior models of forest aboveground biomass. _GIScience and Remote Sensing_ 59:1 1266-1280. https://doi.org/10.1080/15481603.2022.2103069
 
 Desrochers, M. L., Tripp, W., Logan, S., Bevilacqua, E., **Johnson, L.**, & Beier, C. M. (2022). Ground-Truthing Forest Change Detection Algorithms in Working Forests of the US Northeast. _Journal of Forestry_ fvab075. https://doi.org/10.1093/jofore/fvab075
 
