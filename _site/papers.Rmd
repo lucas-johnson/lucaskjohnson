@@ -10,6 +10,11 @@ header-includes:
 
 ---
 
+### 2023
+
+Mahoney, MJ, **Johnson, L. K.**, Silge, J., Frick, H., Kuhn, M., and Beier, C. M. Assessing the performance of spatial cross-validation approaches for models of spatially structured data. In review at _Environmental Modeling & Software_. 
+https://doi.org/10.48550/arXiv.2303.07334
+
 ### 2022
 
 Mahoney, M. J., **Johnson, L. K.**, Guinan, A. Z., and Beier, C. M. (2022). Classification and mapping of low-statured shrubland cover types in post-agricultural landscapes of the US Northeast. _International Journal of Remote Sensing_ 43:19-24 7117-7138. https://doi.org/10.1080/01431161.2022.2155086.
