@@ -17,7 +17,8 @@ header-includes:
 **A Map-based Stock Change Approach for Fine-scale Biomass and Carbon Accounting in NYS.** \
 With [Michael J. Mahoney](https://www.mm218.dev/), and [Colin M. Beier](https://www.esf.edu/faculty/beier/) \
 Regular talk, Forest Ecosystem Monitoring Cooperative Conference, Burlington VT, December 15 2022.\
-Slides available at https://lucas-johnson.github.io/femc-2022
+Slides available at https://lucas-johnson.github.io/femc-2022 \
+Recording available [here](https://streaming.uvm.edu/watch/47449/a-map-based-stock-change-approach-for-fine-scale-biomass-and-carbon-accounting-in-new-york-state/)
 
 <br>
 
