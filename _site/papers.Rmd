@@ -18,6 +18,8 @@ header-includes:
 Mahoney, M. J., **Johnson, L. K.**, Silge, J., Frick, H., Kuhn, M., and Beier, C. M. Assessing the performance of spatial cross-validation approaches for models of spatially structured data. In review at _Environmental Modelling & Software_. 
 https://doi.org/10.48550/arXiv.2303.07334
 
+Mahoney, M. J., **Johnson, L. K.**, and Beier C. M. 2023. AI for shrubland identification and mapping. In Sun Z, Cristea N, Rivas P (eds.), Artificial Intelligence in Earth Science, 295-316. Elsevier. ISBN 978-0-323-91737-7. https://doi.org/10.1016/B978-0-323-91737-7.00010-4
+
 ### 2022
 
 Mahoney, M. J., **Johnson, L. K.**, Guinan, A. Z., and Beier, C. M. (2022). Classification and mapping of low-statured shrubland cover types in post-agricultural landscapes of the US Northeast. _International Journal of Remote Sensing_ 43:19-24 7117-7138. https://doi.org/10.1080/01431161.2022.2155086.
