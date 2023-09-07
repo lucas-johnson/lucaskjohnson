@@ -2,13 +2,14 @@
 title: "Lucas Johnson"
 image: "yosemite.jpeg"
 links:
-  - label: GitHub
-    url: "https://github.com/lucas-johnson"
-  - label: LinkedIn
-    url: "https://www.linkedin.com/in/lucas-johnson-2ab76293/"
-    
   - label: Twitter
     url: "https://twitter.com/lucaskjohnson03"
+  - label: GitHub
+    url: "https://github.com/lucas-johnson"
+  - label: ResearchGate
+    url: "https://www.researchgate.net/profile/Lucas-Johnson-8"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/lucas-johnson-2ab76293/"
   - label: Email
     url: "mailto:lucas.k.johnson03+site@gmail.com"
   - label: CV

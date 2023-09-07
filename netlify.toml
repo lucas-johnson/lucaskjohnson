@@ -1,6 +1,22 @@
 [[redirects]]
   from = "/cv"
-  to = "/cv.pdf"
+  to = "https://lucaskjohnson/cv.pdf"
+  
+[[redirects]]
+  from = "/twitter"
+  to = "https://twitter.com/lucaskjohnson03"
+  
+[[redirects]]
+  from = "/github"
+  to = "https://github.com/lucas-johnson"
+  
+[[redirects]]
+  from = "/linkedin"
+  to = "https://www.linkedin.com/in/lucaskjohnson/"
+  
+[[redirects]]
+  from = "/researchgate"
+  to = "https://www.researchgate.net/profile/Lucas-Johnson-8"
 
 [[redirects]]
   from = "/lidar-agb"
