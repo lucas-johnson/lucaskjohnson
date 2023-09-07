@@ -11,6 +11,8 @@ links:
     url: "https://twitter.com/lucaskjohnson03"
   - label: Email
     url: "mailto:lucas.k.johnson03+site@gmail.com"
+  - label: CV
+    url: "cv.pdf"
 output:
   postcards::solana
 site: distill::distill_website
