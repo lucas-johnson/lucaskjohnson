@@ -1,6 +1,6 @@
 [[redirects]]
   from = "/cv"
-  to = "https://lucaskjohnson/cv.pdf"
+  to = "/cv.pdf"
   
 [[redirects]]
   from = "/twitter"
