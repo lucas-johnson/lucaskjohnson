@@ -12,6 +12,12 @@ header-includes:
 
 ## Lead Presenter/Author
 
+### 2023
+
+**Bridging the Gap Between Pixels and Minimum Estimation Units: Small-Area Uncertainty Estimation with Forest Aboveground Biomass Maps** \
+With [Michael J. Mahoney](https://www.mm218.dev/), [Grant M. Domke](https://www.fs.usda.gov/research/about/people/gmdomke), and [Colin M. Beier](https://www.esf.edu/faculty/beier/) \
+Poster presentation, American Geophysical Union Fall Meeting, San Francisco CA, December 11th 2023. \
+
 ### 2022
 
 **A Map-based Stock Change Approach for Fine-scale Biomass and Carbon Accounting in NYS.** \
@@ -51,6 +57,15 @@ Slides available at https://lucas-johnson.github.io/saf-2021/slides.html
 ---
 
 ## Collaborating Presenter/Author
+
+### 2023
+**An integrated carbon monitoring framework for stock-change GHG inventory at parcel to landscape scales: approach, outputs and applications.**\
+With [Colin M. Beier](https://www.esf.edu/faculty/beier/),  [Michael J. Mahoney](https://www.mm218.dev/), [Madeleine L. Desrochers](https://mldesrochers.com/), and [Grant M. Domke](https://www.fs.usda.gov/research/about/people/gmdomke)\
+Regular talk, American Geophysical Union Fall Meeting, San Francisco CA, December 11 2023.
+
+**Consistent Workflows for Assessing Model Performance: Tools and Applications to Natural Climate Solutions**\
+With [Michael J. Mahoney](https://www.mm218.dev/) and [Colin M. Beier](https://www.esf.edu/faculty/beier/)\
+Regular talk, American Geophysical Union Fall Meeting, San Francisco CA, December 11 2023.
 
 ### 2022
 **Filtering ground noise from LiDAR returns produces inferior models of forest aboveground biomass.**\
