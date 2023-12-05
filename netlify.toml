@@ -1,6 +1,10 @@
 [[redirects]]
   from = "/agu2023poster"
-  to = "https://www.lucaskjohnson.com/posters/agu_2023.pdf"
+  to = "https://www.lucaskjohnson.com/posters/agu2023.pdf"
+  
+[[redirects]]
+  from = "agu2023poster"
+  to = "https://www.lucaskjohnson.com/posters/agu2023.pdf"
 
 [[redirects]]
   from = "/forest-eco-2023"
