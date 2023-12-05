@@ -17,6 +17,7 @@ header-includes:
 **Bridging the Gap Between Pixels and Minimum Estimation Units: Small-Area Uncertainty Estimation with Forest Aboveground Biomass Maps** \
 With [Michael J. Mahoney](https://www.mm218.dev/), [Grant M. Domke](https://www.fs.usda.gov/research/about/people/gmdomke), and [Colin M. Beier](https://www.esf.edu/faculty/beier/) \
 Poster presentation, American Geophysical Union Fall Meeting, San Francisco CA, December 11th 2023. \
+Poster available at https://lucaskjohnson.com/agu2023poster \
 
 ### 2022
 
