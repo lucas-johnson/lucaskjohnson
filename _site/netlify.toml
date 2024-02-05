@@ -1,4 +1,9 @@
 [[redirects]]
+  from = "/phd-capstone"
+  to = "https://lucas-johnson.github.io/phd-capstone/slides"
+
+
+[[redirects]]
   from = "/agu2023poster"
   to = "https://www.lucaskjohnson.com/presentations/agu_2023_poster.pdf"
   
