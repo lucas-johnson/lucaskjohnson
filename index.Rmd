@@ -21,7 +21,7 @@ site: distill::distill_website
  
 ## Bio
 
-I just finished my PhD (woohoo!) at SUNY ESF where I studied a blend of statistics, GIS, and (a bit of) forest ecology. In broad academic terms I'd say this makes me a geographer, but practically speaking I spend most of my time doing spatial data science.
+I just finished my PhD (woohoo!) at SUNY ESF where I studied a blend of statistics, GIS, and (a bit of) forest ecology. In broad academic terms I'd say this makes me a geographer, but practically speaking I'd say I spend most of my time doing spatial data science.
 My dissertation focused on methods for leveraging open data to produce maps and estimates of forest
 biomass and carbon at local scales relevant to management, with an additional emphasis on propagating uncertainty up from field measurements through modeling pipelines to eventual pixel predictions and area-level estimates.
 I have an extensive background in programming and computer science, and have learned to couple these skills with statistical inference and machine 
