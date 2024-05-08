@@ -21,12 +21,10 @@ site: distill::distill_website
  
 ## Bio
 
-I'm a Ph.D. candidate at SUNY ESF studying forest carbon mapping and monitoring 
-under Dr. Colin Beier. 
-My work focuses on methods for leveraging open data to produce maps of forest
-structure at local scales relevant to management. 
-I have an extensive background in programming and computer science, and have 
-been learning to couple these skills with statistical inference and machine 
+I just finished my PhD (woohoo!) at SUNY ESF where I studied a blend of statistics, GIS, and (a bit of) forest ecology. In broad academic terms I'd say this makes me a geographer, but practically speaking I spend most of my time doing spatial data science.
+My dissertation focused on methods for leveraging open data to produce maps and estimates of forest
+biomass and carbon at local scales relevant to management, with an additional emphasis on propagating uncertainty up from field measurements through modeling pipelines to eventual pixel predictions and area-level estimates.
+I have an extensive background in programming and computer science, and have learned to couple these skills with statistical inference and machine 
 learning techniques to produce landscape-level insights. 
 I enjoy the challenges that come with wrangling all kinds of spatial data using
 R and python. 
@@ -36,7 +34,7 @@ R and python.
 
 **SUNY College of Environmental Science & Forestry** | Syracuse, NY
 
-Ph.D. in Environmental Science | August 2019 - Present
+Ph.D. in Environmental Science | August 2019 - May 2024
 
 **Tufts University** | Medford, MA 
 
@@ -44,6 +42,6 @@ B.S. in Computer Science | August 2013 - May 2017
 
 ## Experience
 
-**Research Assistant** | SUNY ESF, [CAFRI](http://cafri-ny.org/) | August 2019 - Present
+**Research Assistant** | SUNY ESF, [CAFRI](http://cafri-ny.org/) | August 2019 - May 2024
 
 **Data Engineer** | Lightkeeper, LLC | August 2017 - July 2019
