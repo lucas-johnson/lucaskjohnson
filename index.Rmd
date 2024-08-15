@@ -24,7 +24,7 @@ site: distill::distill_website
 I'm a Postdoctoral Scholar at Oregon State University working out of the USFS Rocky Mountain Research Station in Riverdale, Utah.
 My research is focused on producing carbon-equivalent estimates of radiative feedbacks (warming effects) associated with the albedo change that results from forest growth, reforestation, and afforestation.
 Additionally, I'm assisting the operationalization of carbon reporting tools based on data from NASA's GEDI mission.
-During my PhD I studied a blend of statistics, GIS, and (a bit of) forest ecology, 
+During my PhD I studied a blend of statistics, GIS, and (a bit of) forest ecology 
 while I worked on methods for leveraging open data to produce maps and estimates of forest biomass and carbon at local scales relevant to management.
 In broad academic terms I'd say this makes me a geographer, but practically speaking I spend most of my time doing spatial data science.
 
