@@ -21,13 +21,12 @@ site: distill::distill_website
  
 ## Bio
 
-I just finished my PhD at SUNY ESF where I studied a blend of statistics, GIS, and (a bit of) forest ecology. In broad academic terms I'd say this makes me a geographer, but practically speaking I'd say I spend most of my time doing spatial data science.
-My dissertation focused on methods for leveraging open data to produce maps and estimates of forest
-biomass and carbon at local scales relevant to management, with an additional emphasis on propagating uncertainty up from field measurements through modeling pipelines to eventual pixel predictions and area-level estimates.
-I have an extensive background in programming and computer science, and have learned to couple these skills with statistical inference and machine 
-learning techniques to produce landscape-level insights. 
-I enjoy the challenges that come with wrangling all kinds of spatial data using
-R and python. 
+I'm a Postdoctoral Scholar at Oregon State University working out of the USFS Rocky Mountain Research Station in Riverdale, Utah.
+My research is focused on producing carbon-equivalent estimates of radiative feedbacks (warming effects) associated with the albedo change that results from forest growth, reforestation, and afforestation.
+Additionally, I'm assisting the operationalization of carbon reporting tools based on data from NASA's GEDI mission.
+During my PhD I studied a blend of statistics, GIS, and (a bit of) forest ecology, 
+while I worked on methods for leveraging open data to produce maps and estimates of forest biomass and carbon at local scales relevant to management.
+In broad academic terms I'd say this makes me a geographer, but practically speaking I spend most of my time doing spatial data science.
 
 
 ## Education
@@ -41,6 +40,8 @@ Ph.D. in Environmental Science | August 2019 - May 2024
 B.S. in Computer Science | August 2013 - May 2017
 
 ## Experience
+
+**Postdoctoral Scholar** | Oregon State University | August 2024 - present
 
 **Research Assistant** | SUNY ESF, [CAFRI](http://cafri-ny.org/) | August 2019 - present
 
