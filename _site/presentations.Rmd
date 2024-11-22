@@ -12,6 +12,17 @@ header-includes:
 
 ## Lead Presenter/Author
 
+### 2024
+
+
+**Integrating albedo offsets in reforestation decisions for climate mitigation outcomes in 2050: a case study in the USA** \
+With [Zhiqiang Yang](https://scholar.google.com/citations?user=bk9-kCkAAAAJ&hl=en), [Angela Erb](https://scholar.google.com/citations?user=9zoGmHcAAAAJ&hl=en), [Ryan M. Bright](https://www.nibio.no/en/employees/ryan-bright), [Grant M. Domke](https://www.fs.usda.gov/research/about/people/gmdomke), [Tracey S. Frescino](https://research.fs.usda.gov/about/people/tfrescino), [Crystal B. Schaaf](https://www.umb.edu/spectralmass/), and [Sean P. Healey](https://research.fs.usda.gov/about/people/seanhealey) \
+Regular talk, FIA Science Symposium, Virtual, Nov 19 2024.
+
+**New allometric models for the USA create a step-change in forest carbon estimation, modeling, and mapping** \
+With [Michael J. Mahoney](https://www.mm218.dev/), [Grant M. Domke](https://www.fs.usda.gov/research/about/people/gmdomke), and [Colin M. Beier](https://www.esf.edu/faculty/beier/) \
+Invited talk, FIA Science Symposium, Virtual, Nov 19 2024.
+
 ### 2023
 
 **Bridging the Gap Between Pixels and Minimum Estimation Units: Small-Area Uncertainty Estimation with Forest Aboveground Biomass Maps** \
