@@ -2,8 +2,8 @@
 title: "Lucas Johnson"
 image: "yosemite.jpeg"
 links:
-  - label: Twitter
-    url: "https://twitter.com/lucaskjohnson03"
+  - label: Bluesky
+    url: "https://bsky.app/profile/lucaskjohnson03.bsky.social"
   - label: GitHub
     url: "https://github.com/lucas-johnson"
   - label: ResearchGate
