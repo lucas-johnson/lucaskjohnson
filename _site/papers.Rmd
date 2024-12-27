@@ -12,11 +12,13 @@ header-includes:
 
 ### 2024
 
+**Johnson, L. K.**, Domke, G. M., Stehman, S. V., Mahoney, M. J., Beier, C.M. From pixels to parcels: flexible, practical small-area uncertainty estimation for spatial averages obtained from aboveground biomass maps. _In review_. https://doi.org/10.48550/arXiv.2412.16403.  
+
 Desrochers, M. L., Clippard, E. A.,  **Johnson, L. K.**, Beier, C.M. Declining trends in canopy disturbance across reserve forest landscapes of the northeastern US. _Forest Ecology and Management_, 578, 122463. https://doi.org/10.1016/j.foreco.2024.122463.
 
 Cranmer, N., Han, T., Chedzoy, B., Smallidge, P. J., Beier, C. M., **Johnson, L. K.**, Xu, X. Estimating merchantable and non-merchantable wood volume in slash walls using terrestrial and airborne LiDAR. _Forest Ecology and Management_, 569, 122211. https://doi.org/10.1016/j.foreco.2024.122211.
 
-**Johnson, L. K.**, Mahoney, M. J., Domke, G. M., & Beier, C. M. New allometric models for the USA create a step-change in forest carbon estimation, modeling, and mapping. In review. https://doi.org/10.48550/arXiv.2405.04507. 
+**Johnson, L. K.**, Mahoney, M. J., Domke, G. M., & Beier, C. M. New allometric models for the USA create a step-change in forest carbon estimation, modeling, and mapping. _In review_. https://doi.org/10.48550/arXiv.2405.04507. 
 
 
 ### 2023
