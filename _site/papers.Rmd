@@ -14,11 +14,11 @@ header-includes:
 
 **Johnson, L. K.**, Yang, Z., Erb, A., Bright, R. M., Domke, G. M., Frescino, T. S., Schaaf, C. B., Healey, S. P. Integrating albedo offsets in reforestation decisions for climate change mitigation outcomes in 2050: a case study in the USA. _Forest Ecology and Management_,  587, 122699. https://doi.org/10.1016/j.foreco.2025.122699.
 
+Desrochers, M. L., Clippard, E. A.,  **Johnson, L. K.**, Beier, C.M. Declining trends in canopy disturbance across reserve forest landscapes of the northeastern US. _Forest Ecology and Management_, 578, 122463. https://doi.org/10.1016/j.foreco.2024.122463.
+
 ### 2024
 
 **Johnson, L. K.**, Domke, G. M., Stehman, S. V., Mahoney, M. J., Beier, C.M. From pixels to parcels: flexible, practical small-area uncertainty estimation for spatial averages obtained from aboveground biomass maps. _In review_. https://doi.org/10.48550/arXiv.2412.16403. 
-
-Desrochers, M. L., Clippard, E. A.,  **Johnson, L. K.**, Beier, C.M. Declining trends in canopy disturbance across reserve forest landscapes of the northeastern US. _Forest Ecology and Management_, 578, 122463. https://doi.org/10.1016/j.foreco.2024.122463.
 
 Cranmer, N., Han, T., Chedzoy, B., Smallidge, P. J., Beier, C. M., **Johnson, L. K.**, Xu, X. Estimating merchantable and non-merchantable wood volume in slash walls using terrestrial and airborne LiDAR. _Forest Ecology and Management_, 569, 122211. https://doi.org/10.1016/j.foreco.2024.122211.
 
