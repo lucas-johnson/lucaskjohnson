@@ -9,7 +9,7 @@ links:
   - label: ResearchGate
     url: "https://www.researchgate.net/profile/Lucas-Johnson-8"
   - label: LinkedIn
-    url: "https://www.linkedin.com/in/lucas-johnson-2ab76293/"
+    url: "https://www.linkedin.com/in/lucaskjohnson"
   - label: Email
     url: "mailto:lucas.k.johnson03+site@gmail.com"
   - label: CV
