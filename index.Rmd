@@ -18,10 +18,9 @@ site: distill::distill_website
 ---
  
 ## Bio
+In broad academic terms, my education and experience make me a geographer, but practically speaking I do geospatial data science. I'm currently a Data Scientist with the [Arête Glacier Initiative](https://www.areteglaciers.org/) where I'm working to build better forecasts of sea-level rise. 
 
-
-I’m a Postdoctoral Scholar at Oregon State University working with the [USFS RMRS](https://research.fs.usda.gov/rmrs) Forest Inventory and Analysis unit in Riverdale, Utah. In this role, I will investigate how the warming effects of surface albedo change resulting from forest growth, reforestation, and afforestation impact decisions around forest management for climate mitigation. Additionally, I will assist in operationalizing forest carbon reporting tools that leverage data from NASA’s GEDI mission. During my PhD, I studied a blend of statistics, GIS, and (a bit of) forest ecology. At the same time, I worked on leveraging open data to produce maps and estimates of forest biomass and carbon at local scales relevant to management in New York State. These resulting data products provided the basis for the NYS Forest Carbon Assessment developed for the NYS Department of Environmental Conservation. In broad academic terms, my education and experience make me a geographer, but practically speaking I do spatial data science with applications in forested ecosystems.
-
+Previously, I spent 6+ years researching applications of remote sensing in forest ecology and management. I carried out this research as a Postdoctoral Scholar with Oregon State University and the [USFS RMRS](https://research.fs.usda.gov/rmrs) Forest Inventory and Analysis unit in Riverdale, Utah, and as Research Assistant with the [Climate and Applied Forest Research Institute](http://cafri-ny.org/) while I earned my Ph.D. at SUNY ESF. The bulk of that work is reflected in the [papers](papers.html) and [presentations](presentations.html) tabs on this site.
 
 ## Education
 
@@ -35,7 +34,9 @@ B.S. in Computer Science | August 2013 - May 2017
 
 ## Experience
 
-**Postdoctoral Scholar** | Oregon State University | August 2024 - present
+**Data Scientist** | Arête Glacier Initiative | April 2026 - Present
+
+**Postdoctoral Scholar** | Oregon State University | August 2024 - April 2026
 
 **Research Assistant** | SUNY ESF, [CAFRI](http://cafri-ny.org/) | August 2019 - August 2024
 
